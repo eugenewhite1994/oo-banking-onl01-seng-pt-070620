@@ -7,6 +7,3 @@ def initialize(name)
   @balance = 1000
   @status = "open"
 end
-
-def display_balance(balance)
-puts balance
