@@ -8,7 +8,7 @@ def initialize(name)
   @status = "open"
 end
 
-def display_balance(balance)
+def display_balance
   "Your balance is #{balance}"
 end
 end
