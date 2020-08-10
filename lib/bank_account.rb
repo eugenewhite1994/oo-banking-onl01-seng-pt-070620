@@ -14,4 +14,10 @@ end
 def display_balance
   "Your balance is #{balance}"
 end
+
+def valid
+  if status == "open"
+    put status 
+  elsif status == "closed"
+  put status
 end
