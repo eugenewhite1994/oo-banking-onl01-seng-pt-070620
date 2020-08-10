@@ -7,3 +7,4 @@ def initialize(name)
   @balance = balance 
   @status = status
 end
+end
